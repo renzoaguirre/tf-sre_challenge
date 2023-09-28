@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"keyvault_module","Source":"./modules/keyvault","Dir":"modules/keyvault"},{"Key":"networking_module","Source":"./modules/networking","Dir":"modules/networking"},{"Key":"storage_module","Source":"./modules/storage","Dir":"modules/storage"}]}
